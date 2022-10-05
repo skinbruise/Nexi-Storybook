@@ -1,7 +1,7 @@
 # Nexi-Storybook
 
-###### Node version
-14.17.0
+## Node version
+> 14.17.0
 
-###### Storybook documentation
+## Storybook documentation
 https://storybook.js.org/docs/react/get-started/install
